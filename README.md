@@ -20,7 +20,7 @@ Hi! We have implemented 2 solutions - CSV Encoding & Fuzzy Search
   3. imdblet_latin - (Latin)
 
   ### Steps to run 
-    1. $git clone 
+    1. $git clone "https://github.com/Samridhi98/CPIP-Tech-Challenge.git"
     2. $cd encoding
     2. $python myapp.py
   
@@ -40,7 +40,7 @@ Hi! We have implemented 2 solutions - CSV Encoding & Fuzzy Search
   (I have used pip freeze to generate requirement.txt file hence may not be useful in some environments)
 
 ### Run
-  1. $git clone
+  1. $git clone "https://github.com/Samridhi98/CPIP-Tech-Challenge.git"
   2. $cd fuzzy
   3. $python main.py
   
